@@ -7,7 +7,7 @@ This repository contains utility functions for working with PDF files in Python.
 To use these utility functions, you need to have the following dependencies installed:
 
 - PyPDF2
-  pdf2docx
+- pdf2docx
 
 You can install them using the following command:
 
